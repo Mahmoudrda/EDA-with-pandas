@@ -37,7 +37,15 @@ The script analyzes sales data by:
 Throughout the script, Matplotlib is used to generate various visualizations
 such as bar plots and line plots to represent the analyzed data.
 
-![image](https://github.com/Mahmoudrda/EDA-with-pandas/assets/143479086/9d524e00-5bf1-4e4c-b369-c5097f83fab5)
+* Sales per city:
+* ![sales per city](https://github.com/Mahmoudrda/EDA-with-pandas/assets/143479086/592cd527-6075-4404-9502-f0d396e7af5c)
+* Orders per hour
+* ![orders per hour](https://github.com/Mahmoudrda/EDA-with-pandas/assets/143479086/ed9cc5b1-d73e-4765-98c0-05e6a3aec71c)
+* Most ordered products
+* ![orders per product](https://github.com/Mahmoudrda/EDA-with-pandas/assets/143479086/64eedaa5-e64b-4ffe-ae3c-ee377822a1fc)
+
+
+
 
 
 """
