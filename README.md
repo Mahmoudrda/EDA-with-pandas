@@ -36,6 +36,10 @@ The script analyzes sales data by:
 4-Visualization:
 Throughout the script, Matplotlib is used to generate various visualizations
 such as bar plots and line plots to represent the analyzed data.
-"""
+
+
+
+"""![Uploading sales per city.PNG…]()
+
    
    
