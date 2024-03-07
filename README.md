@@ -37,9 +37,9 @@ The script analyzes sales data by:
 Throughout the script, Matplotlib is used to generate various visualizations
 such as bar plots and line plots to represent the analyzed data.
 
+![image](https://github.com/Mahmoudrda/EDA-with-pandas/assets/143479086/9d524e00-5bf1-4e4c-b369-c5097f83fab5)
 
 
-"""![Uploading sales per city.PNG…]()
-
+"""
    
    
